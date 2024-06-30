@@ -1,0 +1,1 @@
+CPP Sayi tahmin oyununu normal "main.cpp" klasor dosyasini derleyecek bir  g++ modülü olması gerekiyor bilgisayarınızda yoksa önce msys64 ü kurun internetten bakabilirsiniz c++ vscoded için.Sonrasında indirdiğinizde path yolunu ortam değişkenlerine tanıtın.Sonrasında vs.code ' a giriş yapıp projedeki main.cpp dosyasını derleyiniz
